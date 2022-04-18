@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Camila
 - 👀 I’m interested in **Data Science**
 - 🌱 I’m currently learning **SQL**, **Python** and **Power BI**
-- 🚀 I’m currently enrolled in [Python Fundamentos Para Análise de Dados](https://www.datascienceacademy.com.br/course/python-fundamentos)
-- 🚀 Also currently enrolled in [Microsoft Power BI Para Data Science](https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-data-science)
+- 🚀 I’m currently enrolled in Data Science Academy's [Python Fundamentos Para Análise de Dados](https://www.datascienceacademy.com.br/course/python-fundamentos)
+- 🚀 Also currently enrolled in Data Science Academy's [Microsoft Power BI Para Data Science](https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-data-science)
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/camilalm-teixeira/)
 
 <div align=center>
