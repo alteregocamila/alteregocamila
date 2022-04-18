@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning **SQL**, **Python** and **Power BI**
 - 🚀 I’m currently enrolled in Data Science Academy's [Python Fundamentos Para Análise de Dados](https://www.datascienceacademy.com.br/course/python-fundamentos)
 - 🚀 Also currently enrolled in Data Science Academy's [Microsoft Power BI Para Data Science](https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-data-science)
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/camilalm-teixeira/)
+- 📫 Reach me on <a href="https://www.linkedin.com/in/camilalm-teixeira/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
 
 <div align=center>
     <a href="https://github.com/tharcyla">
