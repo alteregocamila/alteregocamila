@@ -6,8 +6,9 @@
 - 📫 Reach me on <a href="https://www.linkedin.com/in/camilalm-teixeira/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
 
 <div align=center>
-    <a href="https://github.com/tharcyla">
+    <a href="https://github.com/alteregocamila">
         <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=alteregocamila&theme=merko&show_icons=true"/>
+        <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alteregocamila&layout=compact&theme=merko"/>
     </a>
 </div>
 
