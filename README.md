@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning **SQL**, **Python** and **Power BI**
 - 🚀 I’m currently enrolled in:
     <ul>
-      <li>Data Science Academy's <a href="https://www.datascienceacademy.com.br/course/python-fundamentos">Python Fundamentos Para Análise de Dados course</a></li>
       <li>Data Science Academy's <a href="https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-data-science">Microsoft Power BI Para Data Science course</a></li>
+    <li>Data Science Academy's <a href="https://www.datascienceacademy.com.br/course/python-fundamentos">Python Fundamentos Para Análise de Dados course</a></li>
       <li>Progra{m}aria's <a href="https://www.programaria.org/curso-online-euprogramo/">eu progr{amo} course</a></li>
     <li><a href="https://www.hiringcoders.com.br/">Hiring Coders 3 Bootcamp</a></li>
     </ul>
