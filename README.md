@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Camila
 - 📈 I’m interested in **Data Science** and **Front-end web development**
-- 💻 I recently finished Progra{m}aria's <a href="https://www.programaria.org/curso-online-euprogramo/">eu progr{amo} course</a></li>
+- 💻 I recently finished Progra{m}aria's <a href="https://euprogramo.thinkific.com/certificates/u0il6r6rjj">eu progr{amo} course</a></li>
 - 🚀 I’m currently enrolled in:
     <ul>
       <li>Data Science Academy's <a href="https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-data-science">Microsoft Power BI Para Data Science course</a></li>
