@@ -11,7 +11,6 @@
       <li>Data Science Academy's <a href="https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-data-science">Microsoft Power BI Para Data Science course</a></li>
     <li>Data Science Academy's <a href="https://www.datascienceacademy.com.br/course/python-fundamentos">Python Fundamentos Para Análise de Dados course</a></li>
     <li><a href="https://www.hiringcoders.com.br/">Hiring Coders 3 Bootcamp - VTEX - FASE 2</a></li>
-    <li><a href="https://cursos.modalmais.com.br/">Trilha Ciências de Dados para o Mercado Financeiro - Banco Modal</a></li>
     </ul>
 - 📫 Reach me on <a href="https://www.linkedin.com/in/camilalm-teixeira/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
 
