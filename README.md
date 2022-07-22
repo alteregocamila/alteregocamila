@@ -2,7 +2,7 @@
 - 📈 I’m interested in **Data Science** and **Front-end web development**
 - 💻 I recently finished:
     <ul>
-    <li>Hiring Coders 3 Bootcamp - VTEX - <a href="https://1drv.ms/b/s!Alc8XZE0_c49kwT7zyq8igiWNso4?e=zTOAeK">FASE 1</a></li>
+    <li>Hiring Coders 3 Bootcamp - VTEX - <a href="https://1drv.ms/b/s!Alc8XZE0_c49kwT7zyq8igiWNso4?e=zTOAeK">FASE 1</a> e <a href="https://1drv.ms/b/s!Alc8XZE0_c49kwzSRj9a3jvOHRYr?e=PlTj70">FASE 2</a></li>
     <li>Trilha Ciências de Dados para o Mercado Financeiro - Banco Modal - <a href="https://1drv.ms/b/s!Alc8XZE0_c49kwa43x33jqcZwxX7?e=fwS5da">Data Science com Python</a></li>
     <li>Progra{m}aria's <a href="https://euprogramo.thinkific.com/certificates/u0il6r6rjj">eu progr{amo} course</a></li>
     </ul>
@@ -10,7 +10,7 @@
     <ul>
       <li>Data Science Academy's <a href="https://www.datascienceacademy.com.br/course/microsoft-power-bi-para-data-science">Microsoft Power BI Para Data Science course</a></li>
     <li>Data Science Academy's <a href="https://www.datascienceacademy.com.br/course/python-fundamentos">Python Fundamentos Para Análise de Dados course</a></li>
-    <li><a href="https://www.hiringcoders.com.br/">Hiring Coders 3 Bootcamp - VTEX - FASE 2</a></li>
+    <li><a href="https://www.hiringcoders.com.br/">Hiring Coders 3 Bootcamp - VTEX - SEMIFINAL</a></li>
     </ul>
 - 📫 Reach me on <a href="https://www.linkedin.com/in/camilalm-teixeira/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
 
