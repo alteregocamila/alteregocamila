@@ -5,6 +5,7 @@
     <li><a href="https://www.hiringcoders.com.br/">Hiring Coders 3 Bootcamp</a> - VTEX - <a href="https://1drv.ms/b/s!Alc8XZE0_c49kwT7zyq8igiWNso4?e=zTOAeK">FASE 1</a> | <a href="https://1drv.ms/b/s!Alc8XZE0_c49kwzSRj9a3jvOHRYr?e=PlTj70">FASE 2</a> | <a href="https://1drv.ms/b/s!Alc8XZE0_c49kxWcnXGXNDyEMsPk?e=fMDdRr">SEMIFINAL</a></li>
     <li>Trilha Ciências de Dados para o Mercado Financeiro - Banco Modal - <a href="https://1drv.ms/b/s!Alc8XZE0_c49kwa43x33jqcZwxX7?e=fwS5da">Data Science com Python</a></li>
     <li>Progra{m}aria's <a href="https://euprogramo.thinkific.com/certificates/u0il6r6rjj">eu progr{amo} course</a></li>
+    <li>Progra{m}aria's <a href="https://euprogramo.thinkific.com/certificates/thytwjesbv">eu progr{amo} FRONT END #2</a></li>
     </ul>
 - 🚀 I’m currently enrolled in:
     <ul>
